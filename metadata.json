@@ -1,0 +1,6 @@
+{
+  "name": "Wild Meadow",
+  "description": "An interactive 3D fantasy meadow encounter featuring animated characters, cinematic camera sequencing, and stylized procedural scenery.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
